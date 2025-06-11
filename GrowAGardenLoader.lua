@@ -1,2 +1,2 @@
-local mainScript = game:HttpGet("https://raw.githubusercontent.com/thewhitesee/GrowAGardenScript/main/GrowAGardenMain.lua")
+local mainScript = game:HttpGet("https://raw.githubusercontent.com/Docisreu/thewhiteseed-GrowAGardenScript/main/GrowAGardenMain.lua")
 loadstring(mainScript)()
